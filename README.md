@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Khushjain2901/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Khushjain2901/DSA/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Khushjain2901/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushjain2901/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Khushjain2901/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
