@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Khushjain2901/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Khushjain2901/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khushjain2901/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Khushjain2901/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushjain2901/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khushjain2901/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
