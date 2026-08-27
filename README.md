@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Khushjain2901/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Khushjain2901/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khushjain2901/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Khushjain2901/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Khushjain2901/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Khushjain2901/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khushjain2901/DSA/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/Khushjain2901/DSA/tree/master/1859-sorting-the-sentence) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushjain2901/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Khushjain2901/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Khushjain2901/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Khushjain2901/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Khushjain2901/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
