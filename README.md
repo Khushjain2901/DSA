@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Khushjain2901/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Khushjain2901/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Khushjain2901/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0088-merge-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khushjain2901/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Khushjain2901/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Khushjain2901/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
