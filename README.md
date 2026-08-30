@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Khushjain2901/DSA/tree/master/0409-longest-palindrome) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushjain2901/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Khushjain2901/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushjain2901/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushjain2901/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
