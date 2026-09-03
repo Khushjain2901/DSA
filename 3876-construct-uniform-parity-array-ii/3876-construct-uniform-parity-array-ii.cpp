@@ -1,0 +1,19 @@
+class Solution {
+public:
+    bool uniformArray(vector<int>& nums1) {
+         bool odd=false;
+         int mini=INT_MAX;
+         for(int i=0;i<nums1.size();i++){
+            if(nums1[i]%2==1){
+                odd=true;
+            }
+            mini=min(mini,nums1[i]);
+         }
+         if((odd && mini%2==1)||!odd){
+            return true;
+         }
+         else{
+            return false;
+         }
+    }
+};
