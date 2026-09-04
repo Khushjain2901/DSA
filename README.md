@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khushjain2901/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Khushjain2901/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Khushjain2901/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Khushjain2901/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Khushjain2901/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Khushjain2901/DSA/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
