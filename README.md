@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Khushjain2901/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushjain2901/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Khushjain2901/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Khushjain2901/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Khushjain2901/DSA/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -234,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khushjain2901/DSA/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushjain2901/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
