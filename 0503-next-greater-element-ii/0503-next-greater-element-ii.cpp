@@ -1,0 +1,25 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        stack<int>st;
+        int n=nums.size();
+        vector<int>ans(n,-1);
+        for(int i=0;i<2*n;i++){
+            while(!st.empty()&&(nums[i%n]>nums[st.top()])){
+                ans[st.top()]=nums[i%n];
+                st.pop();
+            }
+            st.push(i%n);
+        }
+
+      
+
+        // for(int i=0;i<=n-2;i++){
+        //     if(nums[i]>nums[n-1]){
+        //         ans[n-1]=nums[i];
+        //         break;
+        //     }
+        // }
+        return ans;
+    }
+};
