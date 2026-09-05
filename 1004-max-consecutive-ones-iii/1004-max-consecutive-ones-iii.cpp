@@ -13,8 +13,9 @@ public:
                 }
                 left++;
             }
+            
+            maxi=max(maxi,right-left+1);
             right++;
-            maxi=max(maxi,right-left);
             
         }
         return maxi;
