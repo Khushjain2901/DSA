@@ -1,7 +1,10 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& nums) {
+// Solution 1 can generate wrong results for some iterations but gives overall correct result,Solution 2 will give correct result for every iteration.
 
+
+// SOLUTION 1
         int n=nums.size();
         stack<int>st;
         int maxi=INT_MIN;
@@ -40,7 +43,7 @@ public:
 
         return maxi;
 
-
+// SOLUTION 2
 
     //     int n=nums.size();
     //     stack<int>st1;
