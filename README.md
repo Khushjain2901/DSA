@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Khushjain2901/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Khushjain2901/DSA/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Khushjain2901/DSA/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Khushjain2901/DSA/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushjain2901/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Khushjain2901/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Khushjain2901/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Khushjain2901/DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
