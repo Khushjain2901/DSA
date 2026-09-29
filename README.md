@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Khushjain2901/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Khushjain2901/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Khushjain2901/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Khushjain2901/DSA/tree/master/0496-next-greater-element-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
+| [0260-single-number-iii](https://github.com/Khushjain2901/DSA/tree/master/0260-single-number-iii) |
 ## Knapsack Problem
 |  |
 | ------- |
