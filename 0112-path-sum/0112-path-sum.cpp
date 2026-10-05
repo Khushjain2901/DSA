@@ -12,26 +12,25 @@
 class Solution {
 public:
 
-    void target(TreeNode* root,int &targetSum,int sum,int &flag){
-        if(root==NULL||flag==1) return;
+    bool target(TreeNode* root,int &targetSum,int sum){
+        if(root==NULL) return false;
 
         sum+=root->val;
 
         if(root->left==NULL&&root->right==NULL){
           if(sum==targetSum){
-            flag=1;
-            return ;
+            return true ;
             }
         }
-        target(root->left,targetSum,sum,flag);
-        target(root->right,targetSum,sum,flag);
+        return(target(root->left,targetSum,sum)||target(root->right,targetSum,sum));
        
       
     }
+
     bool hasPathSum(TreeNode* root, int targetSum) {
-        int sum=0,flag=0;
-        target(root,targetSum,sum,flag);
-        return flag;
+        int sum=0;
+        return target(root,targetSum,sum);
+        
         
     }
 };
