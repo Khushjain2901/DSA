@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int maxi;
+    int maxi=0;
     int findHeight(TreeNode* root){
         if(root==NULL) return 0;
 
