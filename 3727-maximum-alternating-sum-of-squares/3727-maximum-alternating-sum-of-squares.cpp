@@ -1,30 +1,27 @@
 class Solution {
 public:
+
+typedef long long ll;
     long long maxAlternatingSum(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>arr;
-        for(int i=0;i<n;i++){
-            arr.push_back(abs(nums[i]));
-            
+        int n = nums.size();
+
+        for (int i=0; i<n; i++){
+            if (nums[i] < 0)
+            nums[i] = (-1)*nums[i];
         }
     
-        sort(arr.begin(),arr.end());
+    sort(nums.begin(), nums.end());
+    
+    ll sum =0;
+    ll mid = n/2;
 
-        long long ans=0;
-        int i=0;
-        int j=n-1;
-        int ind=0;
-        while(ind<n){
-            if(ind%2==0){
-                ans+=pow(arr[j],2);
-                j--;
-            }
-            else{
-                ans-=pow(arr[i],2);
-                i++;
-            }
-            ind++;
-        }
-        return ans ;
+    for (int i=mid; i<n; i++){
+        sum += nums[i]*nums[i];
+
+        // if -nums[idx] exists
+        if (i-mid < mid)
+        sum -= nums[i-mid]*nums[i-mid];
+    }
+   return sum;     
     }
 };
