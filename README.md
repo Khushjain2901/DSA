@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Khushjain2901/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khushjain2901/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Khushjain2901/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushjain2901/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Khushjain2901/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Khushjain2901/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
