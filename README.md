@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Khushjain2901/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/Khushjain2901/DSA/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Khushjain2901/DSA/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Khushjain2901/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Khushjain2901/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Khushjain2901/DSA/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Khushjain2901/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushjain2901/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Khushjain2901/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Khushjain2901/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Khushjain2901/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushjain2901/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Khushjain2901/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Khushjain2901/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Khushjain2901/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Khushjain2901/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Khushjain2901/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Khushjain2901/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Khushjain2901/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0977-squares-of-a-sorted-array) |
