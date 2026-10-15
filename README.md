@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Khushjain2901/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Khushjain2901/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Khushjain2901/DSA/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/Khushjain2901/DSA/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Khushjain2901/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khushjain2901/DSA/tree/master/0503-next-greater-element-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Khushjain2901/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Khushjain2901/DSA/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/Khushjain2901/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Khushjain2901/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushjain2901/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Khushjain2901/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushjain2901/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Khushjain2901/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0413-arithmetic-slices](https://github.com/Khushjain2901/DSA/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
