@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Khushjain2901/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushjain2901/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Khushjain2901/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushjain2901/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushjain2901/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushjain2901/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khushjain2901/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushjain2901/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Khushjain2901/DSA/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -457,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushjain2901/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushjain2901/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
