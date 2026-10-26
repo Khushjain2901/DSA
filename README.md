@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushjain2901/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khushjain2901/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Khushjain2901/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Khushjain2901/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushjain2901/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushjain2901/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Khushjain2901/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Khushjain2901/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Khushjain2901/DSA/tree/master/1470-shuffle-the-array) |
