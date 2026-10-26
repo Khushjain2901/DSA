@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushjain2901/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Khushjain2901/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khushjain2901/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Khushjain2901/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Khushjain2901/DSA/tree/master/0260-single-number-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Khushjain2901/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Khushjain2901/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Knapsack Problem
 |  |
