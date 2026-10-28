@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/Khushjain2901/DSA/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/Khushjain2901/DSA/tree/master/3024-type-of-triangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Khushjain2901/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khushjain2901/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Khushjain2901/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Khushjain2901/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3024-type-of-triangle](https://github.com/Khushjain2901/DSA/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Khushjain2901/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushjain2901/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushjain2901/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Khushjain2901/DSA/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/Khushjain2901/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushjain2901/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Khushjain2901/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushjain2901/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Khushjain2901/DSA/tree/master/0204-count-primes) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Khushjain2901/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
