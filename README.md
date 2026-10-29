@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Khushjain2901/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Khushjain2901/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Khushjain2901/DSA/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Khushjain2901/DSA/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/Khushjain2901/DSA/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushjain2901/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushjain2901/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
