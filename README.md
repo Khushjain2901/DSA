@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Khushjain2901/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushjain2901/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Khushjain2901/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Khushjain2901/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Khushjain2901/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushjain2901/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushjain2901/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Khushjain2901/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
