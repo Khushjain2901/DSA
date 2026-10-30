@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Khushjain2901/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushjain2901/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Khushjain2901/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Khushjain2901/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khushjain2901/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushjain2901/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Khushjain2901/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Khushjain2901/DSA/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Khushjain2901/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Khushjain2901/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Khushjain2901/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Knapsack Problem
 |  |
