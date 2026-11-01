@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Khushjain2901/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Khushjain2901/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khushjain2901/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Khushjain2901/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Khushjain2901/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Khushjain2901/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khushjain2901/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Khushjain2901/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Khushjain2901/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Khushjain2901/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Khushjain2901/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Khushjain2901/DSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Khushjain2901/DSA/tree/master/0494-target-sum) |
@@ -524,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Khushjain2901/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Khushjain2901/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
